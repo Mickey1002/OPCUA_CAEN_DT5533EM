@@ -29,9 +29,7 @@ This project implements an OPC UA server that interfaces with the CAEN DT5533EM 
 
 ---
 
-## 🧰 Getting Started
-
-### Installation
+## 🧰 Getting Started - Installation
 
 ```bash
 # Clone the repository
@@ -42,12 +40,12 @@ cd OPCUA_CAEN_DT5533EM
 pip install CAENpy
 
 ---
-###📦 Usage
+##📦 Usage
 Connect to the OPC UA server using a client such as UaExpert
 Server endpoint example: opc.tcp://<server_ip>:<port> (replace with actual IP and port)
 Browse nodes to monitor or control the CAEN power supply
 
 ---
-###📬 Contact
+##📬 Contact
 Mikołaj Chwojnicki — mikolaj.chwojnicki@gmail.com
 GitHub: https://github.com/Mickey_1002
