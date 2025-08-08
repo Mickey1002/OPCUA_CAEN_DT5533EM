@@ -25,20 +25,22 @@ This project implements an OPC UA server that interfaces with the CAEN DT5533EM 
 
 - **Backend:** Python  
 - **Device Communication:** Ethernet (TCP/IP)  
-- **OPC UA Library:** (e.g., `asyncua`, `FreeOpcUa` — specify if applicable)
+- **OPC UA Library:** opcua
 
 ---
 
 ## Getting Started - Installation
 
 ```bash
-# Clone the repository
+
+### Clone the repository
 git clone https://github.com/Mickey_1002/OPCUA_CAEN_DT5533EM.git
 cd OPCUA_CAEN_DT5533EM
 
-# Install dependencies
+### Install dependencies
 pip install CAENpy
-
+pip install opcua
+```
 ---
 
 ## Usage
