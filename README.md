@@ -46,11 +46,11 @@ pip install opcua
 
 ## Usage
 Connect to the OPC UA server using a client.\
-Server endpoint example: opc.tcp://<server_ip>:<port> (replace with actual IP and port)\
-Browse nodes to monitor or control the CAEN power supply.\
+Server endpoint example: opc.tcp://<server_ip>:<port> (replace with actual IP and port).\
+Browse nodes to monitor or control the CAEN power supply.
 
 ---
 
 ## Contact
-Mikołaj Chwojnicki — mikolaj.chwojnicki@gmail.com
+Mikołaj Chwojnicki — mikolaj.chwojnicki@gmail.com\
 GitHub: https://github.com/Mickey_1002
