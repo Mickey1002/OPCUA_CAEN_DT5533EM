@@ -4,7 +4,7 @@ _A Python-based OPC UA server to communicate with the CAEN DT5533EM power supply
 
 ---
 
-## 🚀 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Tech Stack](#tech-stack)
@@ -15,13 +15,13 @@ _A Python-based OPC UA server to communicate with the CAEN DT5533EM power supply
 
 ---
 
-## 📖 About
+## About
 
 This project implements an OPC UA server that interfaces with the CAEN DT5533EM power supply. It allows remote monitoring and control of the power supply using OPC UA protocol, which is widely used in industrial automation.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend:** Python  
 - **Device Communication:** Ethernet (TCP/IP)  
@@ -29,7 +29,7 @@ This project implements an OPC UA server that interfaces with the CAEN DT5533EM 
 
 ---
 
-## 🧰 Getting Started - Installation
+## Getting Started - Installation
 
 ```bash
 # Clone the repository
@@ -41,13 +41,13 @@ pip install CAENpy
 
 ---
 
-## 📦 Usage
+## Usage
 Connect to the OPC UA server using a client such as UaExpert.
 Server endpoint example: opc.tcp://<server_ip>:<port> (replace with actual IP and port)
 Browse nodes to monitor or control the CAEN power supply.
 
 ---
 
-## 📬 Contact
+## Contact
 Mikołaj Chwojnicki — mikolaj.chwojnicki@gmail.com
 GitHub: https://github.com/Mickey_1002
