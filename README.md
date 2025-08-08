@@ -35,7 +35,8 @@ This project implements an OPC UA server that interfaces with the CAEN DT5533EM 
 
 ### Clone the repository
 git clone https://github.com/Mickey_1002/OPCUA_CAEN_DT5533EM.git
-cd OPCUA_CAEN_DT5533EM
+cd ..//OPCUA_CAEN_DT5533EM
+python main.py
 
 ### Install dependencies
 pip install CAENpy
