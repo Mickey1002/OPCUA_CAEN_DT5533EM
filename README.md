@@ -10,7 +10,6 @@ _A Python-based OPC UA server to communicate with the CAEN DT5533EM power supply
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 ---
